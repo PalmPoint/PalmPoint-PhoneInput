@@ -1,7 +1,7 @@
 # PalmPoint – Phone as a PC Input Device
 
 📱 **PalmPoint** is an open-source project that turns your phone into a wireless  
-**mouse, keyboard, and touchpad** for your computer.
+**mouse, touchpad, keyboard, and gamepad** .
 
 With PalmPoint, you can control your PC using intuitive touch gestures and
 virtual keyboard input — all from your phone.
