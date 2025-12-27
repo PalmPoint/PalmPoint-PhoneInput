@@ -29,7 +29,7 @@ virtual keyboard input — all from your phone.
 
 ### Version Information
 
-**Version 4.0.2** (Released 2025-11-21)  
+**Version 4.0.2** (Released 2025-12-27)  
 **What's New:**
 - Support for email registration
 - Resizable floating window
@@ -167,5 +167,3 @@ virtual keyboard input — all from your phone.
 See [LICENSE](LICENSE) file for details.
 
 ---
-
-_Last updated: 2025-11-21_
