@@ -12,7 +12,12 @@ virtual keyboard input — all from your phone.
 
 ## 📥 Download
 
-[PalmPoint.apk](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPoint.apk)
+1. **PalmPoint (Android)** — [PalmPoint.apk](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPoint.apk)
+2. **PalmPoint Host (Windows)** — [PalmPointHost-Global-win.zip](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-Global-win.zip)
+3. **PalmPoint Host (Linux)** — [PalmPointHost-x86_64.AppImage](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-x86_64.AppImage)
+4. **PalmPoint Host (macOS)** — [PalmPointHost-Global.dmg](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-Global.dmg)
+
+> **PalmPoint Host** is the PC-side companion app required for full keyboard, gamepad, and other advanced features. Download and run it on your Windows, Linux, or macOS computer before connecting from your phone.
 
 ---
 
@@ -28,6 +33,14 @@ virtual keyboard input — all from your phone.
 ---
 
 ### Version Information
+
+**Version 6.0.1** (Released 2026-05-16)  
+**What's New:**
+- WiFi connection mode
+- Action mode
+- Function keyboard can be hidden
+- Customizable main interface background color
+- PalmPoint Host (Window|Linux|Mac) released alongside this version
 
 **Version 4.0.2** (Released 2025-12-27)  
 **What's New:**
