@@ -12,11 +12,12 @@ virtual keyboard input — all from your phone.
 
 ## 📥 Download
 
-1. **PalmPoint (Android)** — [Google Play](https://play.google.com/store/apps)
-2. **PalmPoint Host (Windows)** — [PalmPointHost-Global-win.zip](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-Global-win.zip)
-3. **PalmPoint Host (Linux)** — [PalmPointHost-Global-x86_64.AppImage](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-Global-x86_64.AppImage)
-4. **PalmPoint Host (macOS)** — [PalmPointHost-Global.dmg](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-Global.dmg)
-5. **PalmPoint AI agent skill** — [palmpoint-agent-status.zip](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/palmpoint-agent-status.zip)
+1. **PalmPoint (Android)** — [Google Play](https://play.google.com/store/apps/details?id=com.ns.junyi.phonemouse)
+2. **HandPoint (Android)** — [HandPoint.apk](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/HandPoint.apk)
+3. **PalmPoint Host (Windows)** — [PalmPointHost-Global-win.zip](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-Global-win.zip)
+4. **PalmPoint Host (Linux)** — [PalmPointHost-Global-x86_64.AppImage](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-Global-x86_64.AppImage)
+5. **PalmPoint Host (macOS)** — [PalmPointHost-Global.dmg](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/PalmPointHost-Global.dmg)
+6. **PalmPoint AI agent skill** — [palmpoint-agent-status.zip](https://github.com/PalmPoint/PalmPoint-PhoneInput/releases/download/release/palmpoint-agent-status.zip)
 
 > **PalmPoint Host** is the PC-side companion app required for full keyboard, gamepad, and other advanced features. Download and run it on your Windows, Linux, or macOS computer before connecting from your phone.
 
@@ -34,6 +35,10 @@ virtual keyboard input — all from your phone.
 ---
 
 ### Version Information
+
+**Version 6.3.1** (Released 2026-10-05)  
+**What's New:**
+- Added gesture control: pair with the HandPoint app to drive your computer with camera hand gestures
 
 **Version 6.2.0** (Released 2026-08-11)  
 **What's New:**
