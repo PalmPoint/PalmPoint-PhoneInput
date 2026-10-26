@@ -36,6 +36,11 @@ virtual keyboard input — all from your phone.
 
 ### Version Information
 
+
+**Version 6.3.2** (Released 2026-10-26)  
+**What's New:**
+- Fixed BLE connection issues on some phones;Added a Mac keyboard and common-button groups; added gesture control: pair with the HandPoint app to drive your computer with camera hand gestures.
+
 **Version 6.3.1** (Released 2026-10-05)  
 **What's New:**
 - Added gesture control: pair with the HandPoint app to drive your computer with camera hand gestures
